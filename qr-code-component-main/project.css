@@ -4,7 +4,15 @@ body {
 
 .outer-card {
   background-color: #ffffff;
+  height: 450px;
+  width: 300px;
+  border-radius: 5%;
+}
 
+.qr-code {
+  border-radius: 5%;
+  height: 200px;
+  width: 200px;
 }
 
 .bold-text {
@@ -20,3 +28,4 @@ body {
   letter-spacing: 0.2px;
   color: #68778d;
 }
+
