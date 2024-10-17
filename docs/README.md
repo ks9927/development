@@ -1,1 +1,0 @@
-This is my first attempt at using FrontEnd mentor projects. This took about an hour and a half with breaks in between. I used the figma files they granted me for this project for speific styling such as colors and fonts. I also used google to center a div. Overall this was an easy project and it helped me become more comfortable with using Git.
